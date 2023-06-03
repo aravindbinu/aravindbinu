@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm ARAVIND BINU</h1>
 <h3 align="center">A passionate programmer from India</h3>
-🔭 I’m currently working on Daksha Foundation (mini project)
+🔭 I’m currently working on ParkEase (mini project)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aravindbinu&label=Profile%20views&color=0e75b6&style=flat" alt="aravindbinu" /> </p>
 
